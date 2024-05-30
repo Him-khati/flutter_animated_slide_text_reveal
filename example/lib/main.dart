@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             AnimatedSlideTextRevealWidget(
-              text: "Hello World",
+              text: "Hi. I am",
               coverColor: Colors.blueGrey,
               textStyle: Theme.of(context).textTheme.titleLarge?.copyWith(
                 fontSize: 130

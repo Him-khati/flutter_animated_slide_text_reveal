@@ -32,11 +32,11 @@ class _AnimatedSlideTextRevealWidgetState
 
   late Animation<RelativeRect> textSlideUpAnimation = RelativeRectTween(
     begin: RelativeRect.fromSize(
-      Rect.fromLTRB(0, textSize.height, textSize.width, textSize.height),
+      Rect.fromLTWH(0, textSize.height, textSize.width, textSize.height),
       Size(textSize.width, textSize.height),
     ),
     end: RelativeRect.fromSize(
-      Rect.fromLTRB(0, 0, textSize.width, textSize.height),
+      Rect.fromLTWH(0, 0, textSize.width, textSize.height),
       Size(textSize.width, textSize.height),
     ),
   ).animate(CurvedAnimation(
