@@ -1,7 +1,7 @@
 name: animated_slide_text_reveal
-description: "A new Flutter package project."
+description: "A Slide text Animation Widget "
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Him-khati/flutter_animated_slide_text_reveal"
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
