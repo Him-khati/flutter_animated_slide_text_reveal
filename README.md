@@ -1,10 +1,6 @@
-<!--
 Animated slide text Animation
--->
-NotProduction ready
 
-Very usefull...will update read me
-## Features
+Preview
+![preview](https://github.com/user-attachments/assets/e272efe6-a308-4834-8e73-f06351a4a377)
 
-List what your package can do. Maybe include images, gifs, or videos.
-will do it ,rn I dont know how to
+Updating Readme soon
